@@ -2,4 +2,6 @@
 
 git clone https://github.com/ansalwerfily/ALalwerfily.git
 
-Cd
+cd ALalwerfily
+
+photon Facebook end (2).py
